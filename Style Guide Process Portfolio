@@ -1,0 +1,86 @@
+DGL 104
+Process Portfolio
+Brendan Williamson
+Style Guides
+
+RESEARCH:
+
+The programming language I am using for this Style Guide is HTML. I used HTML in the HTML and CSS class last semester and I really enjoyed it. 
+I found that HTML was a good mix of both programming language and english. I read through the style guide on this website. 
+https://www.w3schools.com/html/html5_syntax.asp. From reading one thing i did not know was that you do not have to close all elements. 
+For example the <p> element does not need a </p> element to close it. Though it is recommended. One thing I also didn't know was everything the <title> element did. 
+I knew how to use it, but didnt know all it did. IT provides a title for the page when its added to favorites. That I didn't know. 
+
+REFLECT:
+	
+	HTML is something I enjoy doing! Since finishing the HTML and CSS class last semester I find myself still messing around and making website landing pages just for fun.
+  I Still need to know a bit. As google has been my friend. I struggle with remembering certain things. Mainly in the CSS. That's where I forget most things. 
+  I remember a lot of HTML. And practicing it sure does help! Some things I need to work on is my tidiness. 
+  I sometimes get carried away. And don't make my code very neat, in both HTML and CSS. I tend to just get carried away and have fun coding that i'm not thinking about it. 
+  And I need to start making it second nature. So I don't need to think about it. 
+
+MY HTML AND CSS EXAMPLES:
+
+CSS: 
+body {
+    background-color:floralwhite;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    float: right;
+    z-index: 1;
+
+}
+.nav-links{
+    text-align: right;
+    background-color:teal;
+    padding: 10px 30px;
+    border-bottom-left-radius: 18px;
+    }
+
+
+
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px 25px;
+}
+.nav-links ul li a{
+    color:#fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+
+HTML:
+ <header>
+        <nav>
+            <img src="whitelogo.png" class="logo" alt="LTR LOGO">
+        <div class="nav-links">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Repairs.html">Repairs</a></li>
+            <li><a href="quotes.html">Quotes</a></li>
+        </ul>
+        </div>
+    </nav>
+    <div class="left-sidebar"></div>   
+        <div class="row">
+            <div class="left-col">
+                <img src="TestImage.jpg" alt="test Image">
+            </div>
+            <div class="right-col">
+                <h1 class="h1home">Kevin Leader</h1>
+                <p>hghwofhwiodhihwfejfejgjejgjejgjegjejgjgjejeje
+                    ejggejgjejejejejjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+                    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj     */Add Description*/
+                    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+                </p>
+            </div>
+        </div>

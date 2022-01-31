@@ -73,3 +73,19 @@ I knew how to use it, but didnt know all it did. IT provides a title for the pag
 ```	
 
 	
+## Week 3
+	
+### RESEARCH
+	
+API Stands for Application Programming Interface. Which really means “rules of engagement”. 
+This allows software applications to interact with other programs.
+I have been browsing through [Java Guide](https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html)
+the website seems to be laid out very well. It's easy to find what i'm looking for, it has many different “packages” that 
+allow the user to read more about what they want.
+
+A few APIs that may be helpful to some apps are
+[Google Maps](https://developers.google.com/maps/documentation/javascript/libraries)
+[Weather Map](https://www.meteomatics.com/en/weather-api/?gclid=Cj0KCQiArt6PBhCoARIsAMF5wah2R9OHmDG1uCztmt6tZ3WLZRwaeYlN-vBkDtTlv38NnelLmBE8FpMaAsj9EALw_wcB)
+	
+### REFLECT
+	

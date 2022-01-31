@@ -2,6 +2,7 @@ DLG - 104
 Process Portfolio
 Brendan W
 
+** WEEK 1 **
 RELFECT:
 
 From past extbooks i really dislike having tons of information on one page. Having to much text per page can make eveyrthing seem very overwhelming.

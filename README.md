@@ -41,7 +41,8 @@ I knew how to use it, but didnt know all it did. IT provides a title for the pag
 
 REFLECT:
 	
-	HTML is something I enjoy doing! Since finishing the HTML and CSS class last semester I find myself still messing around and making website landing pages just for fun.
+	HTML is something I enjoy doing! Since finishing the HTML and CSS class last semester 
+	I find myself still messing around and making website landing pages just for fun.
   I Still need to know a bit. As google has been my friend. I struggle with remembering certain things. Mainly in the CSS. That's where I forget most things. 
   I remember a lot of HTML. And practicing it sure does help! Some things I need to work on is my tidiness. 
   I sometimes get carried away. And don't make my code very neat, in both HTML and CSS. I tend to just get carried away and have fun coding that i'm not thinking about it. 
@@ -50,7 +51,7 @@ REFLECT:
 MY HTML AND CSS EXAMPLES:
 
 CSS: 
-body {
+'body {
     background-color:floralwhite;
 }
 
@@ -112,3 +113,27 @@ HTML:
                 </p>
             </div>
         </div>
+	 '
+	 
+	 
+	 
+	 ** WEEK 3 **
+	 
+	 Week 3
+Brendan W
+
+RESEARCH: API Stands for Application Programming Interface. Which really means “rules of engagement”. 
+	 This allows software applications to interact with other programs. 
+
+	I have been browsing through “Java Guides” https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html. 
+	The website seems to be laid out very well. It's easy to find what i'm looking for, it has many different “packages” that 
+	allow the user to read more about what they want. 
+	 
+	A few APIs that may be helpful to some apps are
+	 - Google Maps
+	 https://developers.google.com/maps/documentation/javascript/libraries
+	- Weather Map API
+	 https://www.meteomatics.com/en/weather-api/?gclid=Cj0KCQiArt6PBhCoARIsAMF5wah2R9OHmDG1uCztmt6tZ3WLZRwaeYlN-vBkDtTlv38NnelLmBE8FpMaAsj9EALw_wcB
+	 -
+	 
+REFLECT: 

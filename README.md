@@ -36,11 +36,40 @@ I knew how to use it, but didnt know all it did. IT provides a title for the pag
 
 	
 ### REFLECT
-	HTML is something I enjoy doing! Since finishing the HTML and CSS class last semester 
-	I find myself still messing around and making website landing pages just for fun.
+  HTML is something I enjoy doing! Since finishing the HTML and CSS class last semester 
+  I find myself still messing around and making website landing pages just for fun.
   I Still need to know a bit. As google has been my friend. I struggle with remembering certain things. Mainly in the CSS. That's where I forget most things. 
   I remember a lot of HTML. And practicing it sure does help! Some things I need to work on is my tidiness. 
   I sometimes get carried away. And don't make my code very neat, in both HTML and CSS. I tend to just get carried away and have fun coding that i'm not thinking about it. 
   And I need to start making it second nature. So I don't need to think about it. 
 
+```
+<header>
+        <nav>
+            <img src="whitelogo.png" class="logo" alt="LTR LOGO">
+        <div class="nav-links">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Repairs.html">Repairs</a></li>
+            <li><a href="quotes.html">Quotes</a></li>
+        </ul>
+        </div>
+    </nav>
+    <div class="left-sidebar"></div>   
+        <div class="row">
+            <div class="left-col">
+                <img src="TestImage.jpg" alt="test Image">
+            </div>
+            <div class="right-col">
+                <h1 class="h1home">Kevin Leader</h1>
+                <p>hghwofhwiodhihwfejfejgjejgjejgjegjejgjgjejeje
+                    ejggejgjejejejejjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+                    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj     */Add Description*/
+                    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+                </p>
+            </div>
+        </div>
+```	
 
+	

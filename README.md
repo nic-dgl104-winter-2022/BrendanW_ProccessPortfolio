@@ -1,17 +1,9 @@
-DLG - 104
-Process Portfolio
-Brendan W
+# Brendan;s Process Portoflio
 
-** WEEK 1 **
-RELFECT:
+## Week 1
 
-From past extbooks i really dislike having tons of information on one page. Having to much text per page can make eveyrthing seem very overwhelming.
-And i personally find it hard to docus when i also see all the other reading that has to be done on that page. I really like textbooks that have 
-vocabulary words on the sides of pages. This makes it very easy to find the covab word you need right away. I also like when text books have everything nicely labaled
-in sections. This makes it very easy to go to section to section.
+### RESEARCH
 
-RESEARCH:
- 
 So, one site that I found for our textbook production is https://www.visme.co/. I decided to make an account on the website and see how it actually is. 
 The site seems like it allows you to make any style of book you want. What I found is great with this site is all the already made templates it offers. 
 There seems to be a lot of style! And it seems like it would be really easy to make a good functional unique textbook. Not only does it allow text. 
@@ -24,23 +16,26 @@ pages and how to put it all together. We may have to download our pages individu
 It's a builder. Not a publishing site. 
 
 
-** WEEK 2 **
+### REFLECT
 
-DGL 104
-Process Portfolio
-Brendan Williamson
-Style Guides
+From past textbooks I really dislike having tons of information on one page. Having to much text per page can make everything seem very overwhelming.
+And I personally find it hard to focus when I also see all the other reading that has to be done on that page. I really like textbooks that have 
+vocabulary words on the sides of pages. This makes it very easy to find the vocab word you need right away. I also like when textbooks have everything nicely labeled
+in sections. This makes it very easy to go from section to section.
 
-RESEARCH:
+
+## Week 2
+
+### RESEARCH
 
 The programming language I am using for this Style Guide is HTML. I used HTML in the HTML and CSS class last semester and I really enjoyed it. 
 I found that HTML was a good mix of both programming language and english. I read through the style guide on this website. 
 https://www.w3schools.com/html/html5_syntax.asp. From reading one thing i did not know was that you do not have to close all elements. 
 For example the <p> element does not need a </p> element to close it. Though it is recommended. One thing I also didn't know was everything the <title> element did. 
-I knew how to use it, but didnt know all it did. IT provides a title for the page when its added to favorites. That I didn't know. 
+I knew how to use it, but didnt know all it did. IT provides a title for the page when its added to favorites. That I didn't know.
 
-REFLECT:
 	
+### REFLECT
 	HTML is something I enjoy doing! Since finishing the HTML and CSS class last semester 
 	I find myself still messing around and making website landing pages just for fun.
   I Still need to know a bit. As google has been my friend. I struggle with remembering certain things. Mainly in the CSS. That's where I forget most things. 
@@ -48,92 +43,4 @@ REFLECT:
   I sometimes get carried away. And don't make my code very neat, in both HTML and CSS. I tend to just get carried away and have fun coding that i'm not thinking about it. 
   And I need to start making it second nature. So I don't need to think about it. 
 
-MY HTML AND CSS EXAMPLES:
 
-CSS: 
-'body {
-    background-color:floralwhite;
-}
-
-nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
-    float: right;
-    z-index: 1;
-
-}
-.nav-links{
-    text-align: right;
-    background-color:teal;
-    padding: 10px 30px;
-    border-bottom-left-radius: 18px;
-    }
-
-
-
-.nav-links ul li{
-    list-style: none;
-    display: inline-block;
-    padding: 5px 25px;
-}
-.nav-links ul li a{
-    color:#fff;
-    text-decoration: none;
-    font-size: 18px;
-}
-
-
-
-HTML:
- <header>
-        <nav>
-            <img src="whitelogo.png" class="logo" alt="LTR LOGO">
-        <div class="nav-links">
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="About.html">About</a></li>
-            <li><a href="Repairs.html">Repairs</a></li>
-            <li><a href="quotes.html">Quotes</a></li>
-        </ul>
-        </div>
-    </nav>
-    <div class="left-sidebar"></div>   
-        <div class="row">
-            <div class="left-col">
-                <img src="TestImage.jpg" alt="test Image">
-            </div>
-            <div class="right-col">
-                <h1 class="h1home">Kevin Leader</h1>
-                <p>hghwofhwiodhihwfejfejgjejgjejgjegjejgjgjejeje
-                    ejggejgjejejejejjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
-                    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj     */Add Description*/
-                    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
-                </p>
-            </div>
-        </div>
-	 '
-	 
-	 
-	 
-	 ** WEEK 3 **
-	 
-	 Week 3
-Brendan W
-
-RESEARCH: API Stands for Application Programming Interface. Which really means “rules of engagement”. 
-	 This allows software applications to interact with other programs. 
-
-	I have been browsing through “Java Guides” https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html. 
-	The website seems to be laid out very well. It's easy to find what i'm looking for, it has many different “packages” that 
-	allow the user to read more about what they want. 
-	 
-	A few APIs that may be helpful to some apps are
-	 - Google Maps
-	 https://developers.google.com/maps/documentation/javascript/libraries
-	- Weather Map API
-	 https://www.meteomatics.com/en/weather-api/?gclid=Cj0KCQiArt6PBhCoARIsAMF5wah2R9OHmDG1uCztmt6tZ3WLZRwaeYlN-vBkDtTlv38NnelLmBE8FpMaAsj9EALw_wcB
-	 -
-	 
-REFLECT: 

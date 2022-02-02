@@ -89,3 +89,5 @@ A few APIs that may be helpful to some apps are
 	
 ### REFLECT
 	
+The only experience i can think of is from this semester in my "Javascript" class. I find that i have to do a better job at remembering all the rules of Java.
+I seem to understand what Java is. And how everything works. Its just rememeber how to write it down to allow it to be effective.

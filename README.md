@@ -91,3 +91,28 @@ A few APIs that may be helpful to some apps are
 	
 The only experience i can think of is from this semester in my "Javascript" class. I find that i have to do a better job at remembering all the rules of Java.
 I seem to understand what Java is. And how everything works. Its just rememeber how to write it down to allow it to be effective.
+	
+
+
+## WEEK 4
+	
+### RESEARCH
+	The community i have found is "Free Code Camp" On github. I have chose this community because i love how it gives info and and code
+	on how you can improve your coding. It pretty much has code to seach you how to code. Another reason i like it is becuase it has more then 
+	just JavaScript. It also have HTML and CSS. Two thing i am more familiar with! But also two thing i really wanna learn more about!
+	This community doesnt seem to have a central hub like discord or slacked. What they do have is a website.
+	with a forum to communicate and ask questions with others in the community. They have a few ways to be able to help contribute.
+	
+	Help by answering coding questions on our community forum.
+ 	Give feedback on coding projects built by campers.
+ 	Help us translate freeCodeCamp.org's resources.
+ 	Contribute to our open source codebase on GitHub.
+	
+	So ill test myself and see if i am able to help with any of the coding questions in the community forum!
+	
+	
+### REFLECT
+	Im excited to get going in this community. I really like that it almost has "classes" so i can learn more about JavaScript.
+	The github has many recourses so i can research specific parts of JavaScript. And also has code that goes along with it.
+	My goals are to try to get through the Java section. Hoping ill further understand it. Ill try to help in the community
+	with questions in the forums.

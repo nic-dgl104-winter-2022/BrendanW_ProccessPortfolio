@@ -116,3 +116,16 @@ I seem to understand what Java is. And how everything works. Its just rememeber 
 	The github has many recourses so i can research specific parts of JavaScript. And also has code that goes along with it.
 	My goals are to try to get through the Java section. Hoping ill further understand it. Ill try to help in the community
 	with questions in the forums.
+
+	
+## WEEK 5
+	
+### RESEARCH
+	The IDE I have chosen for this is Visual Studio Code. I started using Visual Studio Code last semester for my HTML and CSS class.
+	It seems to be very easy to use! And very user friendly! Im very fimilar with it. And honestly its the only one ive use. So i feel
+	safe using it. I love the multi colours. Words having different colours allows you to better understand whats connected to what.
+	
+### REFLECT
+	Ive defiantly been stuck with debugging before. Specifically with Visual Studio Code. A few assignments in my Javascript class i was stuck.
+	And Visual Studio Code didnt seem to help me very much with the debugging and figruing out what was wrong. It gave me a indication that something
+	was wrong. But i still wasnt able to figure out what specicially was wrong about it. 

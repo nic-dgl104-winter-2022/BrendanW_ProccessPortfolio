@@ -129,3 +129,18 @@ I seem to understand what Java is. And how everything works. Its just rememeber 
 	Ive defiantly been stuck with debugging before. Specifically with Visual Studio Code. A few assignments in my Javascript class i was stuck.
 	And Visual Studio Code didnt seem to help me very much with the debugging and figruing out what was wrong. It gave me a indication that something
 	was wrong. But i still wasnt able to figure out what specicially was wrong about it. 
+
+	
+## WEEK 6
+	
+### RESEARCH
+	I was taking a look at this website that breaks down a few "good" and "bad" code reviews. It states that a lot of erroes are found it "breaking the generally accepted architecture", "bugs consisting in incorrect handling of all edge cases", and "errors in the logic of our application". They say in a unresolved conflict error. This is what takes place.
+"Checker: reports a problem with the name of the attempt method, suggesting to use getter or getAttempt (),
+Author: Disagrees with this suggestion, stating that getter is used when a process actually fetches data from another source rather than directly returning data from an object.
+Checker: inserts links to pages presenting examples of using the getAttempt () methods in this case,
+Author: replies with links to sources confirming his approach."
+	
+A good example of resolving a conflict is this 
+"Checker: reports a problem with the name of the attempt method, suggesting to use getter or getAttempt (),
+Author: disagrees with this suggestion, stating that getter is used when a process actually fetches data from another source, rather than directly returning data from an object.
+Checker: agrees with the author of the code, but points out that it is better to name such methods so that they indicate the actual functionality. This way, eventually the method name is changed to numberOfAttepmts ()."

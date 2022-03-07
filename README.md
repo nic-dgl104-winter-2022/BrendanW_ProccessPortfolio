@@ -147,8 +147,8 @@ Checker: agrees with the author of the code, but points out that it is better to
 
 	
 ## WEEK 7
-
-	### COMMUNITY CODE
+### COMMUNITY CODE
+	
 	This week i have decided to write about the community code that i have done. Im going to be 
 	honest and say i have not done anything specifically towards my community. 
 	Since i chose "freecodecamp" as my community ive actually been going through to tutorials

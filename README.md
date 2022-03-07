@@ -144,3 +144,21 @@ A good example of resolving a conflict is this
 "Checker: reports a problem with the name of the attempt method, suggesting to use getter or getAttempt (),
 Author: disagrees with this suggestion, stating that getter is used when a process actually fetches data from another source, rather than directly returning data from an object.
 Checker: agrees with the author of the code, but points out that it is better to name such methods so that they indicate the actual functionality. This way, eventually the method name is changed to numberOfAttepmts ()."
+
+	
+## WEEK 7
+
+	### COMMUNITY CODE
+	This week i have decided to write about the community code that i have done. Im going to be honest and say i have not done anything specifically towards my community. 
+	Since i chose "freecodecamp" as my community ive actually been going through to tutorials they have for JavaScript. And try to get better and what i struggle with in Java. There are over 100 different lessions they allow you to actually do the Javascript. So i read about it, then attemp to do the code! I am attempting to do 10 lessons a week! Although the start can be very boring. It is nice to get some repetition with javascript! And even though i already know how to do most of it so far. Its nice to atleast
+be able to do the writing and not just readying. So im memorizing how to write it down!
+	
+	Heres some example of code i had to do to "Declare a Read-Only Variable with a const Keyword" - Again. I already know how to do this. Its just nice to do it again for
+	my terrible memories sake!
+	
+	...
+	const FCC = "freeCodeCamp"; // Change this line
+	let fact = "is cool!"; // Change this line
+	fact = "is awesome!";
+	console.log(FCC, fact); // Change this line
+	...

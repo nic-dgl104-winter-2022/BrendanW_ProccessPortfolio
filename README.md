@@ -169,3 +169,41 @@ Checker: agrees with the author of the code, but points out that it is better to
 	fact = "is awesome!";
 	console.log(FCC, fact); // Change this line
 	...
+
+	
+	## WEEK 8
+	### RESEARCH
+	
+	Since im trying to get myself more and more familiar with Javascript i took at looks
+	at some links left by other students that involved Javascript. I took a look at a link
+	left my Anna. [Java Style Guide](https://my.visme.co/view/dmy7ezjv-javascript-style-guides-2).
+	What i like about this is the fun way everything if laid out! Its very straight forward
+	and easy to follow. It tells you the best ways to name your variables, code indentation, and
+	it even has a reminder for how to link your Javascript to your HTML. Which it GREAT, even the
+	simpalist of things can be over looked and easily forgotten. All and all i really like this site.
+	It doesnt go to crazy in depth. But it does good reminding you of the simple things you may forget
+	if you dont code to often. 
+	
+	The next one i took a look at is the [Javascript guide from Mozilla](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript)
+	This was linked by Trevor. I like this one because it seems to have a TON of information. It has
+	links to send you to whatever you would like to know about. It gives great descriptions.
+	And even clear examples on how to write the specific code. 
+	
+	### REFLECT
+	
+	I chose both these style guides to look at because they relate to what i want to learn about most.
+	Im trying to sharpen up on my Javascript. And get it to the same level of my HTML and CSS.
+	Both descriptions left by my fellow students were exteremly positive. And both sites didnt
+	disappoint. What i like about both of them is that they are different but similar. The first
+	site left by Anna is a more simplistic site. That seems to focus on the main and simple stuff
+	that some people can easily forget! The second site left from Trevor is great because it goes
+	more indepth on EVERYTHING. And it has great examples to help you out!
+	
+	Pros from both is that they are both very well laid out. They both cover what they are trying
+	to cover very well. They both cover the topic of Javascript differently, but both do it very well.
+	Cons for the first site would be that it doesnt elaborate on more topics. It seems to specifically
+	focus on the "easy" forgettable parts of javascript. A con for the second site is that it just jumps
+	straight into the topics. It doesnt seems to have a nice introduction page with the basics on it.
+	
+	Overally i like both sites! And will 100% be saving them to look back on when i need a hand 
+	or i forget something thats "simple" :)

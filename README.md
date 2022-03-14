@@ -171,8 +171,8 @@ Checker: agrees with the author of the code, but points out that it is better to
 	...
 	.
 	
-	## WEEK 8
-	### RESEARCH
+## WEEK 8
+### RESEARCH
 	
 	Since im trying to get myself more and more familiar with Javascript i took at looks
 	at some links left by other students that involved Javascript. I took a look at a link
@@ -189,7 +189,7 @@ Checker: agrees with the author of the code, but points out that it is better to
 	links to send you to whatever you would like to know about. It gives great descriptions.
 	And even clear examples on how to write the specific code. 
 	
-	### REFLECT
+### REFLECT
 	
 	I chose both these style guides to look at because they relate to what i want to learn about most.
 	Im trying to sharpen up on my Javascript. And get it to the same level of my HTML and CSS.

@@ -169,7 +169,7 @@ Checker: agrees with the author of the code, but points out that it is better to
 	fact = "is awesome!";
 	console.log(FCC, fact); // Change this line
 	...
-
+	.
 	
 	## WEEK 8
 	### RESEARCH

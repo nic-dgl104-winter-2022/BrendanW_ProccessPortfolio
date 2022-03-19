@@ -209,14 +209,14 @@ Checker: agrees with the author of the code, but points out that it is better to
 	or i forget something thats "simple" :)
 
 	
-	## WEEK 9
-	### RESEARCH
+## WEEK 9
+### RESEARCH
 	A useful website for UI patters is https://ui-patterns.com/. This site has tons of pattern examples
 	for almost anything! What awesome about it is that i have the problem at hand. Followed by a quick
 	example about it. It has a usage section explaining how the user would use it. Followed by a solution
 	section to help you come to the solution
 	
-	### REFLECT
+### REFLECT
 	One app that i use often is instagram. I probably use instagram the most out of any app on my phone.
 	I personally like instagrams UI, as it is simple and very easy to use! But here is a quick pros and
 	cons list to this lovely and famous UI.

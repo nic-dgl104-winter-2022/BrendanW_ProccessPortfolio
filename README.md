@@ -174,61 +174,61 @@ Checker: agrees with the author of the code, but points out that it is better to
 ## WEEK 8
 ### RESEARCH
 	
-	Since im trying to get myself more and more familiar with Javascript i took at looks
-	at some links left by other students that involved Javascript. I took a look at a link
-	left my Anna. [Java Style Guide](https://my.visme.co/view/dmy7ezjv-javascript-style-guides-2).
-	What i like about this is the fun way everything if laid out! Its very straight forward
-	and easy to follow. It tells you the best ways to name your variables, code indentation, and
-	it even has a reminder for how to link your Javascript to your HTML. Which it GREAT, even the
-	simpalist of things can be over looked and easily forgotten. All and all i really like this site.
-	It doesnt go to crazy in depth. But it does good reminding you of the simple things you may forget
-	if you dont code to often. 
+Since im trying to get myself more and more familiar with Javascript i took at looks
+at some links left by other students that involved Javascript. I took a look at a link
+left my Anna. [Java Style Guide](https://my.visme.co/view/dmy7ezjv-javascript-style-guides-2).
+What i like about this is the fun way everything if laid out! Its very straight forward
+and easy to follow. It tells you the best ways to name your variables, code indentation, and
+it even has a reminder for how to link your Javascript to your HTML. Which it GREAT, even the
+simpalist of things can be over looked and easily forgotten. All and all i really like this site.
+It doesnt go to crazy in depth. But it does good reminding you of the simple things you may forget
+if you dont code to often. 
 	
-	The next one i took a look at is the [Javascript guide from Mozilla](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript)
-	This was linked by Trevor. I like this one because it seems to have a TON of information. It has
-	links to send you to whatever you would like to know about. It gives great descriptions.
-	And even clear examples on how to write the specific code. 
+The next one i took a look at is the [Javascript guide from Mozilla](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript)
+This was linked by Trevor. I like this one because it seems to have a TON of information. It has
+links to send you to whatever you would like to know about. It gives great descriptions.
+And even clear examples on how to write the specific code. 
 	
 ### REFLECT
 	
-	I chose both these style guides to look at because they relate to what i want to learn about most.
-	Im trying to sharpen up on my Javascript. And get it to the same level of my HTML and CSS.
-	Both descriptions left by my fellow students were exteremly positive. And both sites didnt
-	disappoint. What i like about both of them is that they are different but similar. The first
-	site left by Anna is a more simplistic site. That seems to focus on the main and simple stuff
-	that some people can easily forget! The second site left from Trevor is great because it goes
-	more indepth on EVERYTHING. And it has great examples to help you out!
+I chose both these style guides to look at because they relate to what i want to learn about most.
+Im trying to sharpen up on my Javascript. And get it to the same level of my HTML and CSS.
+Both descriptions left by my fellow students were exteremly positive. And both sites didnt
+disappoint. What i like about both of them is that they are different but similar. The first
+site left by Anna is a more simplistic site. That seems to focus on the main and simple stuff
+that some people can easily forget! The second site left from Trevor is great because it goes
+more indepth on EVERYTHING. And it has great examples to help you out!
 	
-	Pros from both is that they are both very well laid out. They both cover what they are trying
-	to cover very well. They both cover the topic of Javascript differently, but both do it very well.
-	Cons for the first site would be that it doesnt elaborate on more topics. It seems to specifically
-	focus on the "easy" forgettable parts of javascript. A con for the second site is that it just jumps
-	straight into the topics. It doesnt seems to have a nice introduction page with the basics on it.
+Pros from both is that they are both very well laid out. They both cover what they are trying
+to cover very well. They both cover the topic of Javascript differently, but both do it very well.
+Cons for the first site would be that it doesnt elaborate on more topics. It seems to specifically
+focus on the "easy" forgettable parts of javascript. A con for the second site is that it just jumps
+straight into the topics. It doesnt seems to have a nice introduction page with the basics on it.
 	
-	Overally i like both sites! And will 100% be saving them to look back on when i need a hand 
-	or i forget something thats "simple" :)
+Overally i like both sites! And will 100% be saving them to look back on when i need a hand 
+or i forget something thats "simple" :)
 
 	
 ## WEEK 9
 ### RESEARCH
-	A useful website for UI patters is https://ui-patterns.com/. This site has tons of pattern examples
-	for almost anything! What awesome about it is that i have the problem at hand. Followed by a quick
-	example about it. It has a usage section explaining how the user would use it. Followed by a solution
-	section to help you come to the solution
+A useful website for UI patters is https://ui-patterns.com/. This site has tons of pattern examples
+for almost anything! What awesome about it is that i have the problem at hand. Followed by a quick
+example about it. It has a usage section explaining how the user would use it. Followed by a solution
+section to help you come to the solution
 	
 ### REFLECT
-	One app that i use often is instagram. I probably use instagram the most out of any app on my phone.
-	I personally like instagrams UI, as it is simple and very easy to use! But here is a quick pros and
-	cons list to this lovely and famous UI.
+One app that i use often is instagram. I probably use instagram the most out of any app on my phone.
+I personally like instagrams UI, as it is simple and very easy to use! But here is a quick pros and
+cons list to this lovely and famous UI.
 	
-	Pros - The app seems to have a very easy layout. It has the name at the top, followed by a posting 
-	option, your likes, and dms. On the bottom it has 5 options. home page, search, reels, shop, and
-	profile. I really like the simplicity of the profile screen. Not a lot going on. Very simple.
-	Logo, name, and then a description. No banner photo. Which i think gives it a very clean look.
+Pros - The app seems to have a very easy layout. It has the name at the top, followed by a posting 
+option, your likes, and dms. On the bottom it has 5 options. home page, search, reels, shop, and
+profile. I really like the simplicity of the profile screen. Not a lot going on. Very simple.
+Logo, name, and then a description. No banner photo. Which i think gives it a very clean look.
 	
 	
-	Cons - One con i find is that since they added reel and shops. Their are to many options on the bottom
-	of the screen. Another is there are a lot of hiden options. And if you are new to instagram it can be
-	easy to get lost. For example the "post" button. Just looks like a square with a plus. When you click it
-	it shoes 4 more options. Post, story, reel, or live. You have no idea those options are there unless
-	you click on the icon. 
+Cons - One con i find is that since they added reel and shops. Their are to many options on the bottom
+of the screen. Another is there are a lot of hiden options. And if you are new to instagram it can be
+easy to get lost. For example the "post" button. Just looks like a square with a plus. When you click it
+it shoes 4 more options. Post, story, reel, or live. You have no idea those options are there unless
+you click on the icon. 
